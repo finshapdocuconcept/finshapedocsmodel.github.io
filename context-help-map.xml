@@ -195,6 +195,11 @@
    <appContext helpID="bpc_1" path="topics/bpc_1.html"/>
    <appContext helpID="bpc_2" path="topics/bpc_2.html"/>
    <appContext helpID="bpc_3" path="topics/bpc_3.html"/>
+   <appContext helpID="enterprise_roles" path="topics/enterprise_roles.html"/>
+   <appContext helpID="api_developer" path="topics/api_developer.html"/>
+   <appContext helpID="backend_developer" path="topics/backend_developer.html"/>
+   <appContext helpID="frontend_developer" path="topics/frontend_developer.html"/>
+   <appContext helpID="solution_architect" path="topics/solution_architect.html"/>
    <appContext helpID="rights_to_do_tasks" path="topics/rights_to_do_tasks.html"/>
    <appContext helpID="right_1" path="topics/right_1.html"/>
    <appContext helpID="right_2" path="topics/right_2.html"/>
