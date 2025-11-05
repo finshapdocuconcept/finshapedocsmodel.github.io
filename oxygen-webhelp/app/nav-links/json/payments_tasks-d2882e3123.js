@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"payments_tasks-d2882e3123":{"topics":[{"title":"New Payment ","shortdesc":"<p class=\"shortdesc\">This page describes all of the relevant parameters for the New Payment task. <\/p>","href":"topics\/business_tasks_1_2.html","attributes":{"data-id":"business_tasks_1"},"menu":{"hasChildren":false},"tocID":"business_tasks_1-d2882e3134","topics":[]}]}};

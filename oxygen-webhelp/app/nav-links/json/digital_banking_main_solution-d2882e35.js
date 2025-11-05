@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"digital_banking_main_solution-d2882e35":{"topics":[{"title":"Digital Banking Concept","href":"topics\/db_modules_2.html","attributes":{"data-id":"db_modules"},"menu":{"hasChildren":false},"tocID":"db_modules-d2882e43","next":"db_modules-d2882e43"}]}};
