@@ -25,6 +25,8 @@
    <appContext helpID="feature_component_1" path="topics/feature_component_1.html"/>
    <appContext helpID="feature_component_2" path="topics/feature_component_2.html"/>
    <appContext helpID="feature_component_3" path="topics/feature_component_3.html"/>
+   <appContext helpID="entitlements_gen" path="topics/entitlements_gen.html"/>
+   <appContext helpID="instant_data_gds" path="topics/instant_data_gds.html"/>
    <appContext helpID="applications_module" path="topics/applications_module.html"/>
    <appContext helpID="app_component_1" path="topics/app_component_1.html"/>
    <appContext helpID="app_component_2" path="topics/app_component_2.html"/>
@@ -312,6 +314,8 @@
    <appContext helpID="feature_component_1" path="topics/feature_component_1.html"/>
    <appContext helpID="feature_component_2" path="topics/feature_component_2.html"/>
    <appContext helpID="feature_component_3" path="topics/feature_component_3.html"/>
+   <appContext helpID="entitlements_gen" path="topics/entitlements_gen.html"/>
+   <appContext helpID="instant_data_gds" path="topics/instant_data_gds.html"/>
    <appContext helpID="applications_module" path="topics/applications_module.html"/>
    <appContext helpID="app_component_1" path="topics/app_component_1.html"/>
    <appContext helpID="app_component_2" path="topics/app_component_2.html"/>
